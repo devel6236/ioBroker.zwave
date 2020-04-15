@@ -14,8 +14,20 @@
             "pl": "ZWave wsparcie oparte na pakiecie openzwave",
             "zh-cn": "ZWave支持基于openzwave数据包"
         },
-        "version": "2.0.0",
+        "version": "2.0.1",
         "news": {
+            "2.0.1": {
+                "en": "Update OZW to 1.6.1075, ManufacturerSpecific Rev. 84",
+                "de": "Update OZW auf 1.6.1075, ManufacturerSpecific Rev. 84",
+                "ru": "Обновите OZW до 1.6.1075, специфичный для производителя Rev. 84",
+                "pt": "Atualize OZW para 1.6.1075, ManufacturerSpecific Rev. 84",
+                "nl": "Update OZW naar 1.6.1075, fabrikantspecifieke rev.84",
+                "fr": "Mise à jour OZW vers 1.6.1075, spécification fabricant Rev.84",
+                "it": "Aggiorna OZW all'1.6.1075, Produttore Spec. Rev. 84",
+                "es": "Actualice OZW a 1.6.1075, específico del fabricante Rev. 84",
+                "pl": "Zaktualizuj OZW do wersji 1.6.1075, ManufacturerSpecific Rev. 84",
+                "zh-cn": "将OZW更新为1.6.1075，ManufacturerSpecific修订版84 "
+            },
             "2.0.0": {
                 "en": "Automatically run ldconfig during installation. If this causes issues, please run the ioBroker fixer first!",
                 "de": "Führen Sie während der Installation automatisch ldconfig aus. Wenn dies zu Problemen führt, führen Sie zuerst den ioBroker-Fixer aus!",
@@ -116,11 +128,11 @@
         "logging": false,
         "consoleoutput": false,
         "saveconfig": true,
-        "driverattempts": 3,
+        "driverattempts": 4,
         "pollinterval": 500,
         "suppressrefresh": false,
         "forceinit": false,
-        "networkkey": "0x01,0x02,0x03,0x04,0x05,0x06,0x07,0x08,0x09,0x0A,0x0B,0x0C,0x0D,0x0E,0x0F,0x10",
+        "networkkey": "0x14,0x36,0x77,0xFB,0xFB,0xD5,0xC1,0x99,0xB7,0x72,0x97,0xCC,0x74,0xE2,0xD6,0xEE",
         "assumeawake": false
     },
     "objects": [],
