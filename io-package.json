@@ -120,15 +120,15 @@
         "singletonHost": true,
         "messagebox": true,
         "type": "hardware",
-        "enabled": true,
+        "enabled": false,
         "materialize": true
     },
     "native": {
-        "usb": "",
+        "usb": "/dev/ttyAMA0",
         "logging": false,
         "consoleoutput": false,
         "saveconfig": true,
-        "driverattempts": 4,
+        "driverattempts": 3,
         "pollinterval": 500,
         "suppressrefresh": false,
         "forceinit": false,
