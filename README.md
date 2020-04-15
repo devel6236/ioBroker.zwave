@@ -153,6 +153,9 @@ Following global Actions are current supported:
 
 ## Changelog
 
+### 2.0.1
+* (devel6236) Update OZW to 1.6.1075, ManufacturerSpecific Rev. 84
+
 ### 2.0.0
 * (cburghardt) Added ldconfig to installation and upgraded openzwave. Fixes #99. If this causes issues, please run the ioBroker fixer first!
 
