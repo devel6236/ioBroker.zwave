@@ -17,16 +17,16 @@
         "version": "2.0.1",
         "news": {
             "2.0.1": {
-                "en": "Update OpenZWave dependency to 1.6.1075, ManufacturerSpecific Rev. 84",
-                "de": "Aktualisierung der OpenZWave Abhängigkeit auf 1.6.1075, ManufacturerSpecific Rev. 84",
-                "ru": "Обновите зависимость OpenZWave до 1.6.1075, Производитель специфичен Rev. 84",
-                "pt": "Atualize a dependência do OpenZWave para 1.6.1075, ManufacturerSpecific Rev. 84",
-                "nl": "Update de afhankelijkheid van OpenZWave naar 1.6.1075, fabrikantspecifieke rev.84",
-                "fr": "Mettre à jour la dépendance OpenZWave vers 1.6.1075, ManufacturerSpecific Rev. 84",
-                "it": "Aggiorna la dipendenza OpenZWave a 1.6.1075, ManufacturerSpecific Rev. 84",
-                "es": "Actualice la dependencia de OpenZWave a 1.6.1075, específica del fabricante Rev. 84",
-                "pl": "Zaktualizuj zależność OpenZWave do wersji 1.6.1075, ManufacturerSpecific Rev. 84",
-                "zh-cn": "将OpenZWave依赖项更新为1.6.1075，ManufacturerSpecific Rev.84 "
+                "en": "Update OpenZWave dependency to 1.6.1080, ManufacturerSpecific Rev. 86",
+                "de": "Aktualisierung der OpenZWave Abhängigkeit auf 1.6.1080, ManufacturerSpecific Rev. 86",
+                "ru": "Обновите зависимость OpenZWave до 1.6.1080, Производитель специфичен Rev. 86",
+                "pt": "Atualize a dependência do OpenZWave para 1.6.1080, ManufacturerSpecific Rev. 86",
+                "nl": "Update de afhankelijkheid van OpenZWave naar 1.6.1080, fabrikantspecifieke rev. 86",
+                "fr": "Mettre à jour la dépendance OpenZWave vers 1.6.1080, ManufacturerSpecific Rev. 86",
+                "it": "Aggiorna la dipendenza OpenZWave a 1.6.1080, ManufacturerSpecific Rev. 86",
+                "es": "Actualice la dependencia de OpenZWave a 1.6.1080, específica del fabricante Rev. 86",
+                "pl": "Zaktualizuj zależność OpenZWave do wersji 1.6.1080, ManufacturerSpecific Rev. 86",
+                "zh-cn": "将 OpenZWave 依赖项更新为 1.6.1080，ManufacturerSpecific Rev. 86 "
             },
             "2.0.0": {
                 "en": "Automatically run ldconfig during installation. If this causes issues, please run the ioBroker fixer first!",
