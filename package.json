@@ -27,7 +27,7 @@
       "email": "husky.koglhof@icloud.com"
     }
   ],
-  "homepage": "https://github.com/ioBroker/ioBroker.zwave",
+  "homepage": "https://github.com/devel6236/ioBroker.zwave",
   "license": "LGPL-3.0-or-later",
   "keywords": [
     "ioBroker",
@@ -37,7 +37,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ioBroker/ioBroker.zwave.git"
+    "url": "git+https://github.com/devel6236/ioBroker.zwave.git"
   },
   "dependencies": {
     "openzwave-shared": "^1.5.8",
@@ -53,7 +53,7 @@
     "mocha": "^6.0.2"
   },
   "bugs": {
-    "url": "https://github.com/ioBroker/ioBroker.zwave/issues"
+    "url": "https://github.com/devel6236/ioBroker.zwave/issues"
   },
   "main": "main.js",
   "readmeFilename": "README.md"
