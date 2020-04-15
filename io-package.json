@@ -112,9 +112,9 @@
             "linux": ["pkg-config", "libudev-dev", "build-essential", "curl", "unzip"]
         },
         "license": "LGPL-3.0-or-later",
-        "readme": "https://github.com/ioBroker/ioBroker.zwave/blob/master/README.md",
+        "readme": "https://github.com/devel6236/ioBroker.zwave/blob/master/README.md",
         "icon": "zwave.png",
-        "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.zwave/master/admin/zwave.png",
+        "extIcon": "https://raw.githubusercontent.com/devel6236/ioBroker.zwave/master/admin/zwave.png",
         "compact": true,
         "onlyWWW": false,
         "singletonHost": true,
