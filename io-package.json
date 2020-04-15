@@ -17,16 +17,16 @@
         "version": "2.0.1",
         "news": {
             "2.0.1": {
-                "en": "Update OZW to 1.6.1075, ManufacturerSpecific Rev. 84",
-                "de": "Update OZW auf 1.6.1075, ManufacturerSpecific Rev. 84",
-                "ru": "Обновите OZW до 1.6.1075, специфичный для производителя Rev. 84",
-                "pt": "Atualize OZW para 1.6.1075, ManufacturerSpecific Rev. 84",
-                "nl": "Update OZW naar 1.6.1075, fabrikantspecifieke rev.84",
-                "fr": "Mise à jour OZW vers 1.6.1075, spécification fabricant Rev.84",
-                "it": "Aggiorna OZW all'1.6.1075, Produttore Spec. Rev. 84",
-                "es": "Actualice OZW a 1.6.1075, específico del fabricante Rev. 84",
-                "pl": "Zaktualizuj OZW do wersji 1.6.1075, ManufacturerSpecific Rev. 84",
-                "zh-cn": "将OZW更新为1.6.1075，ManufacturerSpecific修订版84 "
+                "en": "Update OpenZWave dependency to 1.6.1075, ManufacturerSpecific Rev. 84",
+                "de": "Aktualisierung der OpenZWave Abhängigkeit auf 1.6.1075, ManufacturerSpecific Rev. 84",
+                "ru": "Обновите зависимость OpenZWave до 1.6.1075, Производитель специфичен Rev. 84",
+                "pt": "Atualize a dependência do OpenZWave para 1.6.1075, ManufacturerSpecific Rev. 84",
+                "nl": "Update de afhankelijkheid van OpenZWave naar 1.6.1075, fabrikantspecifieke rev.84",
+                "fr": "Mettre à jour la dépendance OpenZWave vers 1.6.1075, ManufacturerSpecific Rev. 84",
+                "it": "Aggiorna la dipendenza OpenZWave a 1.6.1075, ManufacturerSpecific Rev. 84",
+                "es": "Actualice la dependencia de OpenZWave a 1.6.1075, específica del fabricante Rev. 84",
+                "pl": "Zaktualizuj zależność OpenZWave do wersji 1.6.1075, ManufacturerSpecific Rev. 84",
+                "zh-cn": "将OpenZWave依赖项更新为1.6.1075，ManufacturerSpecific Rev.84 "
             },
             "2.0.0": {
                 "en": "Automatically run ldconfig during installation. If this causes issues, please run the ioBroker fixer first!",
