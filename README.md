@@ -1,11 +1,6 @@
 ![Logo](admin/zwave.png)
 # ioBroker zwave Adapter
 
-![Number of Installations](http://iobroker.live/badges/zwave-installed.svg) ![Number of Installations](http://iobroker.live/badges/zwave-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.zwave.svg)](https://www.npmjs.com/package/iobroker.zwave)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.zwave.svg)](https://www.npmjs.com/package/iobroker.zwave)
-
-[![NPM](https://nodei.co/npm/iobroker.zwave.png?downloads=true)](https://nodei.co/npm/iobroker.zwave/)
-
 Zwave support with openzwave.
 
 For this adapter is used rather good supported npm module: https://github.com/OpenZWave/node-openzwave-shared
