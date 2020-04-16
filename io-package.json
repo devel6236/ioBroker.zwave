@@ -12,7 +12,7 @@
             "it": "Supporto ZWave basato sul pacchetto openzwave",
             "es": "Soporte ZWave basado en paquete openzwave",
             "pl": "ZWave wsparcie oparte na pakiecie openzwave",
-            "zh-cn": "ZWave支持基于openzwave数据包"
+            "zh-cn": "ZWave支持基于openzwave数据包 "
         },
         "version": "2.0.1",
         "news": {
