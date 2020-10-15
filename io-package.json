@@ -14,8 +14,20 @@
             "pl": "ZWave wsparcie oparte na pakiecie openzwave",
             "zh-cn": "ZWave支持基于openzwave数据包 "
         },
-        "version": "2.0.2",
+        "version": "2.0.3",
         "news": {
+            "2.0.3": {
+                "en": "Updated dependencies",
+                "de": "Aktualisierte Abhängigkeiten",
+                "ru": "Обновленные зависимости",
+                "pt": "Dependências atualizadas",
+                "nl": "Bijgewerkte afhankelijkheden",
+                "fr": "Dépendances mises à jour",
+                "it": "Dipendenze aggiornate",
+                "es": "Dependencias actualizadas",
+                "pl": "Zaktualizowano zależności",
+                "zh-cn": "更新了依赖性"
+            },            
             "2.0.2": {
                 "en": "Removed usage of `adapter.objects` for compatibility with JS-Controller 3.x\nUpdated dependencies",
                 "de": "Die Verwendung von \"adapter.objects\" wurde aus Gründen der Kompatibilität mit JS-Controller 3.x entfernt\nAktualisierte Abhängigkeiten",
