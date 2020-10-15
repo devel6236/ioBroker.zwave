@@ -148,6 +148,9 @@ Following global Actions are current supported:
 
 ## Changelog
 
+### 2.0.3
+* (devel6236) Update OpenZWave dependency to 1.6.1392, ManufacturerSpecific Rev. 122
+
 ### 2.0.2
 * (AlCalzone) Removed usage of `adapter.objects` for compatibility with JS-Controller 3.x
 * (AlCalzone) Update dependencies
